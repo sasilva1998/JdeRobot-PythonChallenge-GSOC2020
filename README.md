@@ -16,10 +16,13 @@ Also it is important to know the structure of the `config.json` file. There you 
 	"interval": 300
 }
 ```
-
 To run the sample application just run:
 
 `python3 app.py`
 
 This will run the game to times using different config files.
+### Set of tests
+About the tests of my solution, I have made a video for that which you can see in the following youtube link [Set of tests Youtube Video](https://www.youtube.com/watch?v=RMNxihV-MBY)
+
+
 
